@@ -6,7 +6,7 @@
 main{padding:30px 0 40px}h2{color:#0b3c5d;font-size:1.8rem;margin:34px 0 8px;border-left:8px solid #d9b310;padding-left:12px}.intro{font-size:1.1rem}
 .cards{display:flex;flex-wrap:wrap;gap:18px;margin:20px 0}
 .card{flex:1 1 250px;border-radius:16px;padding:22px;color:#fff;box-shadow:0 5px 0 rgba(0,0,0,.25)}
-.card h3{margin:0 0 8px;font-size:1.5rem}.c1{background:#0b3c5d}.c2{background:#328cc1}.c3{background:#6b7f91;color:#fff}
+.card h3{margin:0 0 8px;font-size:1.5rem}.c1{background:#0b3c5d}.c2{background:#328cc1}.c3{background:#6b7f91;color:#fff}.c4{background:#d9b310;color:#1d2731}
 .btn{display:inline-block;background:#fff;color:#0b3c5d;font-weight:bold;padding:8px 16px;border-radius:20px;text-decoration:none;margin-top:8px}
 .btn.off{opacity:.9}.c3 .btn{background:#d9b310;color:#1d2731}
 footer{background:#1d2731;color:#dfe6ec;padding:18px 0;font-size:.85rem}footer a{color:#d9b310;margin-right:16px}
